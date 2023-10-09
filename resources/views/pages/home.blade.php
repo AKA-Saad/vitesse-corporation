@@ -12,10 +12,6 @@
     }
 </style>
 
-
-
-
-
 <div class="text-center  mt-10 mx-14">
     <h1 class="content-h"> Latest news</h1>
 
@@ -42,8 +38,6 @@
             <p class="font-poppins text-left  font-normal text-sm leading-5 mt-2">28 Sep, 2023</p>
         </div>
     </div>
-
-
 </div>
 
 @endsection
